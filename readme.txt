@@ -1,4 +1,5 @@
-This application was created to parse text from websites for Hapticomm Project by Rasul Yermagambet
+This application was created to parse text from websites for Hapticomm Project by Rasul Yermagambet. 
+To get the GUI for Linux: https://drive.google.com/file/d/1MtjAjd-D-zJTunIotqwhQWx6X8cVE6u3/view?usp=sharing. 
 
 Download the version depending on your OS
 
