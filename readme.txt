@@ -1,7 +1,5 @@
-This application was created to parse text from websites for Hapticomm Project by Rasul Yermagambet. 
 To get the GUI for Linux: https://drive.google.com/file/d/1MtjAjd-D-zJTunIotqwhQWx6X8cVE6u3/view?usp=sharing. 
 
-Download the version depending on your OS
 
 To use the programm just run parser.exe, paste your url and press 'Parse' button. You can open your txt file by pressing 'Open File' button.
 The text files are stored in folder 'Parsed_Files'.
